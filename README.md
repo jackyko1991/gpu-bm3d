@@ -170,6 +170,14 @@ The parallel baseline: [GitHub](https://github.com/DawyD/bm3d-gpu)
 
 **credit** 50-50
 
+## Compile from Source
+```
+mkdir build
+cd build
+ccmake ../
+# (optional) check BUILD_PYTHON_BINDINGS if python interface is needed
+make
+```
 
 ## Reference
 
