@@ -6,3 +6,4 @@ psnr
 bm3d
 *.o
 Makefile
+build
