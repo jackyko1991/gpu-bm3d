@@ -179,6 +179,8 @@ ccmake ../
 make
 ```
 
+Python example is available at [notebooks](./notebooks/)
+
 ## Reference
 
 [BM3D algorithm paper](https://www.cs.tut.fi/~foi/GCF-BM3D/BM3D_TIP_2007.pdf)
